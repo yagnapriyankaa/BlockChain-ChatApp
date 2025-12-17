@@ -1,4 +1,4 @@
-# Secure Exchange – Blockchain Based Chat App
+# Blockchain Based Chat App
 
 A **simple blockchain-based chat application** that helps users send **secure messages** using Ethereum smart contracts.
 
